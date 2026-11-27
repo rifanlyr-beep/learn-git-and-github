@@ -3,3 +3,4 @@ Rencana code Yifan
 -mau membuat code js
 -mau membuat code react
 -jago epep
+-bisa bahasa paris
