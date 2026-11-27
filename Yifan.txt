@@ -4,4 +4,3 @@ Rencana code Yifan
  ^typejs
 -mau membuat code react
 -jago epep
--bisa bahasa paris
