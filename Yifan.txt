@@ -1,6 +1,7 @@
 Rencana code Yifan
 
 -mau membuat code js
+ ^typejs
 -mau membuat code react
 -jago epep
 -bisa bahasa paris
